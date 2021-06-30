@@ -6,6 +6,7 @@ from nonebot.default_config import *
 
 from os import path
 
+#VEHSABJHEVBSJVEHBJSHEVBJ
 #群权限
 GROUP_USE = []
 ban_suer_id = []
